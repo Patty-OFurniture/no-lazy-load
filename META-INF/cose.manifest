@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Dahs9HOpQZuLcYJ0jB98h9VsuL8=
+SHA256-Digest: 9oj13Xln88WZ99YVfQjxQiwqV+gDh1Utt7KxK25ovUo=
+
+Name: nolazy.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cJ6Pw/ziSVyGQfVrVD8RzN/rCLA=
+SHA256-Digest: oWMjeZSHLR7BFFrrC0VG+4urKt3jPSzGk5pSTBjOnro=
+
+Name: icons/icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9Yc5GvB5gSAcXCDYzHug3EzAtMQ=
+SHA256-Digest: iULFm7GtHYswj/XMpJW2q1S2Ac9r/IB/tHFLB3NybFI=
+

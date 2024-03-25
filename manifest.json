@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "nolazy",
+  "description": "Loads lazy load images normally which would otherwise never show with javascript disabled.",
+  "version": "0.2",
+  "icons": {
+    "48": "icons/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["nolazy.js"]
+    }
+  ]
+}
